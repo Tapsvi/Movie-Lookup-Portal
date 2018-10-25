@@ -1,0 +1,29 @@
+.page-content{
+    width:100%;
+}
+.listCol{
+    width:30%;
+}
+.detailCol{
+    width:70%;
+}
+.searchbar{
+    width:100%;
+}
+h1{
+    text-align: center;
+    color: #bd0a0a;
+    font-size: 44px;
+    background-color: rgba(0,0,0,0.8);
+    margin-top: -14px;
+    border-radius: 5px;
+    border: 1px solid #fff;
+}
+/* app-listing{
+    width:20%;
+    float:left;
+}
+app-movie-details{
+    width:70%;
+    float:right;
+} */
